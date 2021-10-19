@@ -24,11 +24,6 @@ public class FloatDoubleExample {
 		System.out.println(var6);
 		System.out.println(var7);
 		System.out.println(var8);
-		
-		
-
-
-	
 	}
 
 }
